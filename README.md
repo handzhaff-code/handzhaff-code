@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Zhaf 👋
 
-<!--
-**handzhaff-code/handzhaff-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+Python Developer in the Making 🚀
+Passionate about Backend Systems, FastAPI, and Practical AI Tools.
 
-Here are some ideas to get you started:
+💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Focus: Software & Systems background, actively sharpening Python & backend engineering skills.
+🛠️ Current Goal: Building robust REST APIs with FastAPI and exploring RAG/LLM application integrations.
+🎯 Philosophy: Continuous learner — focusing on clean code, proper documentation, and steady progress every day.
+
+- Featured Projects (In Progress / Coming Soon)
+🚀 Employee Management REST API — A clean FastAPI backend featuring full CRUD operations, input validation, and SQLite integration.
+🤖 Mini RAG Application — Document Q&A assistant utilizing chunking, vector embeddings, and LLM API integration.
+
+📫 Connect with Me
+LinkedIn: 
+Email: 
+“Small, continuous commits compound into big outcomes.”
