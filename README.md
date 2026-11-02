@@ -15,6 +15,6 @@ Passionate about Backend Systems, FastAPI, and Practical AI Tools.
 🤖 Mini RAG Application — Document Q&A assistant utilizing chunking, vector embeddings, and LLM API integration.
 
 📫 Connect with Me
-LinkedIn: 
-Email: 
+LinkedIn: www.linkedin.com/in/rio-kurniawan-068481444
+Email: zhaferiusrk@gmail.com
 “Small, continuous commits compound into big outcomes.”
